@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/icc-report-to-aasb/static/css/main.9a8bf3e6.css",
+    "main.js": "/icc-report-to-aasb/static/js/main.d8958478.js",
+    "static/media/icoc-bubble-chart.png": "/icc-report-to-aasb/static/media/icoc-bubble-chart.0e515eda477d9e188daa.png",
+    "static/media/cam.jpg": "/icc-report-to-aasb/static/media/cam.6b29db13113757a30143.jpg",
+    "static/media/aasb-logo.png": "/icc-report-to-aasb/static/media/aasb-logo.4cd4bbbae1387a076d4c.png",
+    "static/media/company_gvkey_link.csv": "/icc-report-to-aasb/static/media/company_gvkey_link.0e49c9097f20b075ea07.csv",
+    "static/media/monash-logo.svg": "/icc-report-to-aasb/static/media/monash-logo.fcb38b7bb2c2be3e78838ee73b3dcbdd.svg",
+    "index.html": "/icc-report-to-aasb/index.html",
+    "main.9a8bf3e6.css.map": "/icc-report-to-aasb/static/css/main.9a8bf3e6.css.map",
+    "main.d8958478.js.map": "/icc-report-to-aasb/static/js/main.d8958478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8bf3e6.css",
+    "static/js/main.d8958478.js"
+  ]
+}
